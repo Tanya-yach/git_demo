@@ -1,2 +1,4 @@
 weather weather
 where are you here?
+I am here, I am here
+I am with you, I am with you
