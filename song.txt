@@ -2,3 +2,8 @@ weather weather
 where are you here?
 I am here, I am here
 I am with you, I am with you
+
+I do not go to shop
+I want to read the book
+I want to eat a cake
+And drink coffee
